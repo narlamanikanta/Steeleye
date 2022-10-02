@@ -1,0 +1,1 @@
+Because you can frequently just copy and paste the same solution for a simple list over to your code, the List and ListItem components are used so frequently in React applications that they could be considered boilerplate or list templates. Therefore, it is beneficial to keep in mind this list component's structure.
